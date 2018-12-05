@@ -1,2 +1,3 @@
-# Original_lesson_plans
-Lesson plans, created to teach to Python Intro class students  
+# Machine_Learning(for_dummies)
+Lesson plans created for entry level Machine Learning students 
+Would love feed back, enjoy :)
